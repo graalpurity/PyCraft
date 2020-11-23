@@ -12,3 +12,5 @@ If you find yourself with an any error(s) its probably a project error. You'll p
 # Contriubutors/Helpers
 * Null 774(https://github.com/null774), helped redesign the ui, helped clean up the code base
 * AsthonMemer, used his method for dragging the form
+# Downloads
+You can download this cheat through the source code and compiling it yourself, or you can download a compiled version [here}(https://www.youtube.com/watch?v=BjDebmqFRuc&ab_channel=MrMeme)
