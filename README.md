@@ -10,7 +10,7 @@
 # Errors
 If you find yourself with an any error(s) its probably a project error. You'll probably be missing a reference or the project is broken, if you add the required references and it still isn't working you can make a new winform project in Visual Studio and add click add existing items and put it into the new project
 # Contriubutors/Helpers
-* Null 774(https://github.com/null774), helped redesign the ui, helped clean up the code base
-* AsthonMemer, used his method for dragging the form
+* [Null 774](https://github.com/null774), helped redesign the ui, helped clean up the code base
+* [AsthonMemer](https://github.com/AshtonMemer), used his method for dragging the form
 # Downloads
 You can download this cheat through the source code and compiling it yourself, or you can download a compiled version [here](https://www.youtube.com/watch?v=BjDebmqFRuc&ab_channel=MrMeme)
