@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PyCraft Self Destruct/1.0.0": {
+        "runtime": {
+          "PyCraft Self Destruct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PyCraft Self Destruct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

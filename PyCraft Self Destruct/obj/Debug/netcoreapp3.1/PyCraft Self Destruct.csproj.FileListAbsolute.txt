@@ -1,0 +1,11 @@
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\bin\Debug\netcoreapp3.1\PyCraft Self Destruct.exe
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\bin\Debug\netcoreapp3.1\PyCraft Self Destruct.deps.json
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\bin\Debug\netcoreapp3.1\PyCraft Self Destruct.runtimeconfig.json
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\bin\Debug\netcoreapp3.1\PyCraft Self Destruct.runtimeconfig.dev.json
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\bin\Debug\netcoreapp3.1\PyCraft Self Destruct.dll
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\bin\Debug\netcoreapp3.1\PyCraft Self Destruct.pdb
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\obj\Debug\netcoreapp3.1\PyCraft Self Destruct.csprojAssemblyReference.cache
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\obj\Debug\netcoreapp3.1\PyCraft Self Destruct.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\obj\Debug\netcoreapp3.1\PyCraft Self Destruct.AssemblyInfo.cs
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\obj\Debug\netcoreapp3.1\PyCraft Self Destruct.dll
+C:\Visual Studio Projects\PyCraft\PyCraft Self Destruct\obj\Debug\netcoreapp3.1\PyCraft Self Destruct.pdb
