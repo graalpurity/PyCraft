@@ -15,7 +15,7 @@ If you find yourself with an any error(s) its probably a project error. You'll p
 * [AsthonMemer](https://github.com/AshtonMemer) used his method for dragging the form
 
 # Downloads
-You can download this cheat through the source code and compiling it yourself, or you can download a compiled version [here](https://www.youtube.com/watch?v=BjDebmqFRuc&ab_channel=MrMeme)
+You can download this cheat through the source code and compile it yourself, or you can download a compiled version [here](https://www.youtube.com/watch?v=BjDebmqFRuc&ab_channel=MrMeme)
 
 # Error handling
 Before you open up an issue ticket talking about your source error make sure you do the following
