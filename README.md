@@ -8,7 +8,7 @@ make a pull request I'll review your code and if It's something I want in the pr
 * [Discord RPC Wrapper](https://github.com/Lachee/discord-rpc-csharp)
 * [VAMemory](https://vivid-abstractions.net/)
 # Errors
-If you find yourself with an error within the project itself, such as a missing reference, the project can be broken. You can create a new project and add in the files into your new project, this will usually fix errors
+If you find yourself with an any error(s) It's probably an error within the project itself, such a missing a reference or the project itself being broken. Some methods of fixing these could be, adding the missing references or making sure all references are updated, if these fail to fix your issue(s), try making a new windows forms project and adding the required dependencies and references to your new solution. 
 
 # Contriubutors/Helpers
 * [Null 774](https://github.com/null774) helped redesign the ui, helped clean up the code base
