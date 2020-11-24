@@ -1,4 +1,4 @@
-# PyCraft
+# What is PyCraft?
 PyCraft is a Minecraft BedRock cheat developed in C#
 
 # Contribution
