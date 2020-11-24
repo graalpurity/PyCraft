@@ -13,11 +13,13 @@ If you find yourself with an any error(s) its probably a project error. You'll p
 # Contriubutors/Helpers
 * [Null 774](https://github.com/null774) helped redesign the ui, helped clean up the code base
 * [AsthonMemer](https://github.com/AshtonMemer) used his method for dragging the form
+* [Adam 774](https://www.youtube.com/c/LightFangEPIC22/videos) Proof read this readme
 
 # Downloads
 You can download this cheat through the source code and compile it yourself, or you can download a compiled version [here](https://www.youtube.com/watch?v=BjDebmqFRuc&ab_channel=MrMeme)
 
 # Error handling
 Before you open up an issue ticket talking about your source error make sure you do the following.
-Add these references: `Bunifu, VAMEMORY`.
+  Add these references: 
+    `Bunifu, VAMEMORY`.
 If that does not solve your issues, open an issue ticket and post screenshots of the error(s)
