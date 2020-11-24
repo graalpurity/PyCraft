@@ -8,7 +8,7 @@
 * [Discord RPC Wrapper](https://github.com/Lachee/discord-rpc-csharp)
 * [VAMemory](https://vivid-abstractions.net/)
 # Errors
-If you find yourself with an any error(s) It's probably a project error. You'll probably be missing a reference or the project is broken, If you add the required references and it still isn't working you can make a new winform project in Visual Studio and add click add existing items and put it into the new project
+If you find yourself with an error within the project itself, such as a missing reference, the project can be broken. You can create a new project and add in the files into your new project, this will usually fix errors
 
 # Contriubutors/Helpers
 * [Null 774](https://github.com/null774) helped redesign the ui, helped clean up the code base
