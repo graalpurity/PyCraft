@@ -1,8 +1,8 @@
 # PyCraft
-* PyCraft is a Minecraft BedRock cheat developed in C#
+PyCraft is a Minecraft BedRock cheat developed in C#
 
 # Contribution
-* If you make a pull request I'll review your code and if It's something I want in the project I'll add it.
+make a pull request I'll review your code and if It's something I want in the project I'll add it.
 
 # References
 * [Discord RPC Wrapper](https://github.com/Lachee/discord-rpc-csharp)
