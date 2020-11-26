@@ -23,3 +23,15 @@ Before you open up an issue ticket talking about your source error make sure you
   Add these references: 
     `Bunifu, VAMEMORY`.
 If that does not solve your issues, open an issue ticket and post screenshots of the error(s)
+
+# 999ClientConsoleDocs
+
+# What is 999 Client Console Docs?
+* 999 Client Console Docs is the documentation for the console built into the client
+
+# Commands
+_________________________
+    super cool commands
+_________________________
+1. help(); -brings you back to this page for help
+2. process(); -tells you minecrafts executable name and process id
